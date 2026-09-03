@@ -1,1 +1,0 @@
-import{M as e}from"./demo-CGrMVao0.js";var t=e(`X`,[[`path`,{d:`M18 6 6 18`,key:`1bl5f8`}],[`path`,{d:`m6 6 12 12`,key:`d8bk6v`}]]);function n(e,t){return typeof e==`boolean`?e:t===!0}function r(e){return e&&typeof e==`object`&&!Array.isArray(e)?e:null}export{n,t as r,r as t};

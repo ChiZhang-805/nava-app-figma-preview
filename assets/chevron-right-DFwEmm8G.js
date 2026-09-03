@@ -1,1 +1,0 @@
-import{M as e}from"./demo-CGrMVao0.js";var t=e(`ChevronRight`,[[`path`,{d:`m9 18 6-6-6-6`,key:`mthhwq`}]]);export{t};
