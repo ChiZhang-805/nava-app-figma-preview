@@ -1,0 +1,1 @@
+function e(e,t){return typeof e==`boolean`?e:t===!0}function t(e){return e&&typeof e==`object`&&!Array.isArray(e)?e:null}export{e as n,t};
