@@ -1,1 +1,0 @@
-import{G as e}from"./index-Dpfy_FYv.js";var t=e(`ChevronRight`,[[`path`,{d:`m9 18 6-6-6-6`,key:`mthhwq`}]]);export{t};
